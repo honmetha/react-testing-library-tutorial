@@ -9,6 +9,9 @@
    - Speeds up QA Time
    - Can Serve as Documentations
 1. Types of Test
+   - Unit Tests
+   - Integration Tests
+   - End to End (E2E) Tests
 1. Structure of Tests
 1. Intro to Query Methods
 1. Priority
