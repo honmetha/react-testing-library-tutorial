@@ -4,6 +4,10 @@
 
 1. Introduction
 1. The Importance of Testing
+   - Catch Bugs
+   - Increases Confidence in Application
+   - Speeds up QA Time
+   - Can Serve as Documentations
 1. Types of Test
 1. Structure of Tests
 1. Intro to Query Methods
