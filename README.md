@@ -13,6 +13,10 @@
    - Integration Tests
    - End to End (E2E) Tests
 1. Structure of Tests
+   - Render a component we want to test
+   - Find elements we want to interact with
+   - Interact with those elements
+   - Assert that the results are as expected
 1. Intro to Query Methods
 1. Priority
 1. Using Query Methods
