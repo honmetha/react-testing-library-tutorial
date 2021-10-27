@@ -20,6 +20,7 @@
 1. Intro to Query Methods
    ![Query Methods](./public/query-methods.png)
 1. Priority
+   ![Priority](./public/priority.png)
 1. Using Query Methods
 1. Assertions
 1. Describe Block
