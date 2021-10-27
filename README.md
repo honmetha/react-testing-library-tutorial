@@ -20,7 +20,9 @@
 1. Intro to Query Methods
    ![Query Methods](./public/query-methods.png)
 1. Priority
-   ![Priority](./public/priority.png)
+ <p float="left">
+    <img src="./public/priority.png" alt="Priority" width="400">
+ </p>
 1. Using Query Methods
 1. Assertions
 1. Describe Block
