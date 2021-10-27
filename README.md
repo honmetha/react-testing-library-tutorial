@@ -18,6 +18,7 @@
    - Interact with those elements
    - Assert that the results are as expected
 1. Intro to Query Methods
+   ![Query Methods](./public/query-methods.png)
 1. Priority
 1. Using Query Methods
 1. Assertions
