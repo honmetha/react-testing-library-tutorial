@@ -18,11 +18,13 @@
    - Interact with those elements
    - Assert that the results are as expected
 1. Intro to Query Methods
-   ![Query Methods](./public/query-methods.png)
+   <p float="left">
+      <img src="./public/query-methods.png" alt="Query Methods" width="600">
+   </p>
 1. Priority
- <p float="left">
-    <img src="./public/priority.png" alt="Priority" width="400">
- </p>
+   <p float="left">
+      <img src="./public/priority.png" alt="Priority" width="400">
+   </p>
 1. Using Query Methods
 1. Assertions
 1. Describe Block
