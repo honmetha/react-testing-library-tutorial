@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import "./Banner.css";
 // import mountain from "../../assets/images/mountain.jpg"
 

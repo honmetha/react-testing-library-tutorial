@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import TodoFooter from "../TodoFooter/TodoFooter";
 import "./TodoList.css";
 

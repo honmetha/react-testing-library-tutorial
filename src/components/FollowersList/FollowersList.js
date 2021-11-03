@@ -1,12 +1,12 @@
-import React, { useEffect, useState } from "react";
+import * as React from "react";
 import "./FollowersList.css";
 import axios from "axios";
 import { Link } from "react-router-dom";
 
 export default function FollowersList() {
-  const [followers, setFollowers] = useState([]);
+  const [followers, setFollowers] = React.useState([]);
 
-  useEffect(() => {
+  React.useEffect(() => {
     const fetchFollowers = async () => {
       const { data } = await axios.get("https://randomuser.me/api/?results=5");
       setFollowers(data.results);
