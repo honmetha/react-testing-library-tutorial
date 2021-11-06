@@ -1,5 +1,7 @@
 # React Testing Library Tutorial
 
+![demo](./src/assets/images/demo.png)
+
 ## 📖 Chapters
 
 1. Introduction
